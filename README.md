@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on improving my cloud knowledge
+- 🌱 I’m currently learning Python and Azure
+- 👯 I’m looking to collaborate on as much as posible to get into cloud engineering
+
 <!--
 **Telnet-23/Telnet-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
