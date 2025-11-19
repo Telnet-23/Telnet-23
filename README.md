@@ -1,31 +1,29 @@
 ## Terry Knight
 
 # Current Situation
-Working as a Project Engineer in the UK and digging alot deeper into Cloud and DevOps. My primary learning currently consists of Linux, Git, Docker, and Python.
+Based in the UK, working as a Project Engineer, I am focused on advancing my expertise in Cloud and DevOps technologies. My primary learning objectives currently span Linux, Git, Docker, and Python, with hands-on professional exposure to the Microsoft 365 ecosystem and a particular focus on Microsoft Azure as my go-to cloud platform.​
+
+Given my background in infrastructure and systems administration, I have a solid foundation in server management and networking. Python has emerged as my language of choice for automation and cloud-driven solutions, especially in system and network management contexts. While not a “natural” coder, regular practice has strengthened my proficiency and confidence in technical problem-solving.
 
 ## Microsoft Azure
-Alot of my job currently in very intergrated into the Microsoft 365 ecosystem. Becuase all this, all cloud resources I touch day to day are in Microsoft Azure. Due to my hands on experience with Azure, I am learning this as my primary CSP.
+Daily, my work involves significant integration within the Microsoft 365 environment, and I have practical experience managing various cloud resources on Azure. This operational exposure makes Azure my primary cloud service provider, both for professional projects and ongoing learning as I advance my cloud journey.
 
 ## Python
-I come from an infrastructure background having worked as a Systems Administrator and have a strong base knowledge in servers and networking. Given its use cases for system management, network automation, and its cloud use cases, the programming language I have chosen to double down on is Python. I do not consider myself a natural coder but I can get by. Practice makes perfect.
+Drawing from my systems administration history, I leverage Python for scripting, automation, and cloud orchestration tasks. Its relevance to IT and DevOps workflows makes it integral to my toolset, and I continually expand my Python skills through practical application.
 
 ## Homelab
-I will upload the repo for my home lab once I'm at a point where the whole things is running on bare metal Kubernetes and can all be deployed and managed via IaC. I'm currently sporting:
+To further develop my skills, I am building a homelab environment, which will be showcased in GitHub once fully operational on bare metal Kubernetes, fully orchestrated via Infrastructure as Code. Current hardware includes:
 
-2x Dell Optiplex 7060 (Ex-Office free cycled machines)
-  - Proxmox v9.0 (Cluster)
-      - 3x RHEL VMS (Prepping for RHCSA)
-  - 16GB DDR4 RAM
-  - 500GB SSD
-  - Intel Core i7-8700 Hexa Core 3.20GHz
+2x Dell Optiplex 7060 (recycled office machines)
+  - Proxmox v9.0 cluster
+    - 3x RHEL VMs (preparation for RHCSA certification)
+  - 16GB DDR4 RAM, 500GB SSD, Intel Core i7-8700 Hexa Core (main nodes)
 
-1x QNAP TS-563
+QNAP TS-563 NAS
 
-1x Lenovo X260 Laptop
-  - Fedora KDE Plasma 42
-  - 16GB DDR4 RAM
-  - 1TB SSD
-  - Intel Core i5-6300U 2.4 GHz
+Lenovo X260 Laptop running Fedora KDE Plasma 42 (16GB DDR4, 1TB SSD, Intel Core i5-6300U)
+
+This setup enables me to experiment with real-world cloud and DevOps scenarios, deepen my expertise in automation and orchestration, and refine my technical portfolio through hands-on learning.
 
 
 
