@@ -1,5 +1,5 @@
 ## Terry Knight
-Based in the UK, working as a Project Engineer, I am focused on advancing my expertise in Cloud Engineering and DevOps culture. I'm currently expanding my skill set in Docker, Kubernetes, Azure, and Python, and aiming to automate full deployments with GitHub Actions and/or Azure DevOps.
+Based in the UK, working as a Project Engineer, I am focused on advancing my expertise in Cloud Engineering and DevOps practices. I'm currently expanding my skill set in Docker, Kubernetes, Azure, and Python, and aiming to automate full deployments with GitHub Actions and/or Azure DevOps.
 
 My primary background is in infrastructure and networking, so my Linux and networking skills have already built a great baseline. I'm now working to fill those gaps, dig deeper into Azure, and really get a good grasp of containerisation, microservice architecture, and build up my Python skills to comfortably reach the level of a 'Junior Python Developer'.
 
