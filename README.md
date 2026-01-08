@@ -3,7 +3,7 @@ Based in the UK, working as a Project Engineer, I am focused on advancing my exp
 
 My primary background is in infrastructure and networking, so my Linux and networking skills have already built a great baseline. I'm now working to fill those gaps, dig deeper into Azure, and really get a good grasp of containerisation, microservice architecture, and build up my Python skills to comfortably reach the level of a 'Junior Python Developer'.
 
-I'm currently working through KodeKlouds 100 Days of DevOps challange to test my skills and learn new ones: https://github.com/Telnet-23/100DaysDevOps
+I've recently completed KodeKlouds 100 Days of DevOps challange to test my existing skills and learn a bunch of new ones: https://github.com/Telnet-23/100DaysDevOps
 
 ## Microsoft Azure
 I landed on Microsoft Azure as it was in use at work. I have nothing against AWS or GCP; it's just that I've never needed to use them. To advance my skills and career, I sat and passed AZ-900 and AZ-104 and will eventually look to do AZ-400 once I'm comfortable in my ability to showcase and demonstrate my proficiency in Azure DevOps. I don’t believe in having the paper without the skills.
