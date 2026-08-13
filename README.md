@@ -18,15 +18,21 @@ https://github.com/Telnet-23/PythonBootCamp
 To further develop my skills, I am building an over engineered home lab environment, which will be showcase my and expand my abilities with Kubernetes, GitOps using ArgoCD, Grafana, GitHub Actions and all that sweet stuff. Currently my lab consists of:
 
 3 node K3s cluster built on Pi 4 Model-B (4GB)
-    Current Apps:
-        ArgoCD
-        Homepage
+- Current Apps:
+  
+    ArgoCD
 
-    Future Apps:
-        Pi Hole
-        Unifi Controller
-        Plex
-        Grafana
+    Homepage
+  
+- Future Apps:
+  
+    Pi Hole
+  
+    Unifi Controller
+  
+    Plex
+  
+    Grafana
 
 Other hardware I'm using to
 - 2× Dell Optiplex 7060 (recycled office machines) forming a Proxmox v9.0 cluster - 16GB DDR4 RAM, 500GB SSD, Intel Core i7-8700 Hexa Core in each. 
