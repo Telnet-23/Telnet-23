@@ -43,6 +43,8 @@ Other hardware I'm using to
 
 This setup enables me to experiment with real-world cloud and DevOps scenarios, deepen my expertise in automation and orchestration, and refine my technical portfolio through hands-on learning.
 
+https://github.com/Telnet-23/HomeLab.git
+
 
 
 
