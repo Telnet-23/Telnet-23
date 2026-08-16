@@ -19,15 +19,10 @@ To further develop my skills, I am building an over engineered home lab environm
 
 3 node K3s cluster built on Pi 4 Model-B (4GB)
 - Current Apps:
-    ArgoCD
-    Homepage
-    Grafana
+    ArgoCD, Homepage, Grafana
   
 - Future Apps:
-    Pi Hole
-    Unifi Controller
-    Plex
-    A few simple apps I will build and containerise. 
+    Pi Hole, Unifi Controller, Plex, A few simple apps I will build and containerise. 
 
 Other hardware I'm using to
 - 2× Dell Optiplex 7060 (recycled office machines) forming a Proxmox v9.0 cluster - 16GB DDR4 RAM, 500GB SSD, Intel Core i7-8700 Hexa Core in each. 
@@ -36,7 +31,7 @@ Other hardware I'm using to
 - Lenovo X260 Laptop running Fedora KDE Plasma 43 (16GB DDR4, 1TB SSD, Intel Core i5-6300U)
 - 1× Azure subscription
 
-This setup enables me to experiment with real-world cloud and DevOps scenarios, deepen my expertise in automation and orchestration, and refine my technical portfolio through hands-on learning.
+This setup enables me to experiment with real-world cloud and DevOps scenarios, deepen my expertise in automation and orchestration, and refine my technical portfolio through hands-on learning. I intend to build some CI with GitHub Actions to work alongside ArgoCD. 
 
 https://github.com/Telnet-23/HomeLab.git
 
