@@ -24,9 +24,8 @@ To further develop my skills, I am building an over engineered home lab environm
 - Future Apps:
     Pi Hole, Unifi Controller, Plex, A few simple apps I will build and containerise. 
 
-Other hardware I'm using to
-- 2× Dell Optiplex 7060 (recycled office machines) forming a Proxmox v9.0 cluster - 16GB DDR4 RAM, 500GB SSD, Intel Core i7-8700 Hexa Core in each. 
-- Cluster is running 3× RHEL VMs (preparation for RHCSA certification). This will eventually run full K8 on Talos.
+Other hardware I'm using for learning and self hosting:
+- 2× Dell Optiplex 7060 (recycled office machines) forming a Proxmox v9.0 cluster - 16GB DDR4 RAM, 500GB SSD, Intel Core i7-8700 Hexa Core in each. A few RHEL boxes running for RHCSA study. These will inevitably become Talos linux running full K8 once I'm ready.
 - QNAP TS-563 NAS
 - Lenovo X260 Laptop running Fedora KDE Plasma 43 (16GB DDR4, 1TB SSD, Intel Core i5-6300U)
 - 1× Azure subscription
